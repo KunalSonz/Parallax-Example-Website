@@ -1,1 +1,2 @@
-# Parallax-Example-Website
+# Parallax-Example-Website                                                                       
+HTML + CSS
